@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @rorosaurus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rory! I write code and design circuitry!
+- 👀 I’m interested in full stack web dev, firmware/hardware, mobile apps, and right-to-repair!
+- 👨‍🎓 I’m currently learning about next hot microprocessor (and imagining possibilities)!
+- 🤝 I’m always looking to collaborate on low-power, distributed, mesh network LED art projects!
+
+📌 Hiring? Check out my [resume](https://github.com/rorosaurus/resume)! 📄
 
 <!---
 rorosaurus/rorosaurus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
