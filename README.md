@@ -1,11 +1,11 @@
-## 👋 Hello world, I’m Rory! I write code and design circuitry! 👨‍💻
+# 👋 Hello world, I’m Rory! I write code and design circuitry! 👨‍💻
 
-- 💭 I document my projects and thoughts on my personal website, [roryhay.es](https://roryhay.es)!
-- 👀 I’m interested in full stack, web dev, firmware/hardware, mobile apps, and right-to-repair!
-- 👨‍🎓 I’m probably currently learning about next hot microprocessor (and imagining possibilities)!
-- 🤝 I’m always looking to collaborate on LED art projects or retro hardware renewal!
+### 👀 I’m interested in full stack, web dev, firmware/hardware, mobile apps, and right-to-repair!
+### 👨‍🎓 I’m probably currently learning about next hot microprocessor (and imagining possibilities)!
+### 🤝 I’m always looking to collaborate on LED art projects or retro hardware renewal!
+### 💭 I document my projects and thoughts on my personal website, [roryhay.es](https://roryhay.es)!
 
-## 📌 Hiring? Check out my [resume](https://github.com/rorosaurus/resume)! 📄
+# 📌 Hiring? Check out my [resume](https://github.com/rorosaurus/resume)! 📄
 
 
 
