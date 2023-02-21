@@ -5,7 +5,7 @@
 ### 🤝 I’m always looking to collaborate on LED art projects or retro hardware renewal!
 ### 💭 I document my projects and thoughts on my personal website, [roryhay.es](https://roryhay.es)!
 
-# 📌 Hiring? Check out my [resume](https://github.com/rorosaurus/resume)! 📄
+# 📌 Hiring? Check out my [resume](https://github.com/rorosaurus/resume/blob/master/Rory%20O%20Hayes%20-%20Resume.pdf)! 📄
 
 
 
